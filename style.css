@@ -1,0 +1,73 @@
+
+body {
+    overflow-x: hidden;
+}
+.bg-img {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    filter: brightness(60%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+h1.navbar-brand,
+h1.navbar-brand:hover {
+    font-family: bebas neue, cursive;
+}
+
+.offcanvas-title{
+    font-family: bebas neue, cursive;
+}
+
+
+
+#button-signup {
+    background-color: #fe2a78;
+}
+
+@media(max-width: 991px){
+    #offcanvasNavbar{
+        background-color: rgba(225, 225, 225,0.15);
+        backdrop-filter: blur(10px);
+    }
+}
+.text-title {
+    font-family: dosis, cursive;
+    font-weight: bold;
+}
+
+.text-title span {
+    color: #fff;
+}
+
+
+
+#line-about{
+    background-color: #dad1ba;
+}
+
+#categories{
+    background-color: rgb(255, 255, 255);
+}
+
+#categories h2{background-color: rgb(255, 255, 255);
+    font-family: dosis, cursive;
+    justify-content: center;
+}
+
+#faq h2{background-color: rgb(255, 255, 255);
+    font-family: dosis, cursive;
+    justify-content: center;
+}
+
+#abe-categorie{
+    color: black;
+}
+    
+#faq, #faq h2 {
+    background-color: #94afb1;
+}
+
