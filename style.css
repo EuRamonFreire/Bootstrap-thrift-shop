@@ -30,7 +30,7 @@ h1.navbar-brand:hover {
 
 @media(max-width: 991px){
     #offcanvasNavbar{
-        background-color: rgba(225, 225, 225,0.15);
+        background-color: rgba(3, 3, 3, 0.466);
         backdrop-filter: blur(10px);
     }
 }
