@@ -71,3 +71,10 @@ h1.navbar-brand:hover {
     background-color: #94afb1;
 }
 
+#footer-text {
+    font-family: bebas neue, cursive;
+}
+
+#footer-p{
+    font-family: dosis;
+}
